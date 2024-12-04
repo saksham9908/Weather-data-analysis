@@ -2,13 +2,11 @@
 
 ## Introduction
 - Exploratory Weather Data Analysis , Visualization With Creative Dashboard &amp; Story Telling  Using Python & Tableau Public. Dataset Gatherd From www.kaggle.com
-- View As Jupyter Notebook File : [Click Here](https://github.com/Nsadaa/Weather-Exploratory-Data-Analysis-Visualization/blob/main/Weather%20Data%20Analysis%20%26%20Visualization.ipynb)
+- View As Jupyter Notebook File : [Click Here](https://github.com/saksham9908/Weather-data-analysis/blob/main/Weather%20Data%20Analysis%20%26%20Visualization.ipynb)
 
-- View As Markdown File : [Click Here](https://github.com/Nsadaa/Weather-Exploratory-Data-Analysis-Visualization/blob/main/Weather%20Data%20Analysis%20%26%20Visualization/Weather%20Data%20Analysis%20%26%20Visualization.md)
+- View As Markdown File : [Click Here](https://github.com/saksham9908/Weather-data-analysis/blob/main/Weather%20Data%20Analysis%20%26%20Visualization/Weather%20Data%20Analysis%20%26%20Visualization.md)
 
-- View Tableau Dashborad : [Click Here](https://public.tableau.com/app/profile/nilshan.sadaruwan/viz/WeatherDataVisualization/WheatherDashboard)
-
-- Attached [HTML Format File](https://github.com/Nsadaa/Weather-Exploratory-Data-Analysis-Visualization/blob/main/Weather%20Data%20Analysis%20%26%20Visualization_HTML_Format.rar) & [Dataset](https://github.com/Nsadaa/Weather-Exploratory-Data-Analysis-Visualization/blob/main/Dataset.rar)
+- Attached [HTML Format File](https://github.com/saksham9908/Weather-data-analysis/blob/main/Weather%20Data%20Analysis%20%26%20Visualization_HTML_Format.rar) & [Dataset](https://github.com/saksham9908/Weather-data-analysis/blob/main/Dataset.rar)
 
 ## Objectives
 - Deep Analyse The Data Using Advance Python.
